@@ -19,6 +19,17 @@ ul {
   list-style: none;
 }
 
+.scroller {
+  background-color: rgba(53, 6, 221, 0.623);
+  height: 15px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  width: 0;
+  width: 0;
+}
+
 /* combonant */
 .combonant {
   margin: 0 auto;
